@@ -11,3 +11,6 @@ and most of the JavaScript fundamental syntax. The project is meant to be a game
 - Getting a validated user choice
 - Returning the results and checking who won the game
 
+## How to Play
+
+This version is a console Game and in order to play, you will have to open the developer console using use Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux)
