@@ -6,3 +6,8 @@ This project is part of the [the Odin Project](https://www.theodinproject.com/le
 - Control Statements
 - Problem solving
 and most of the JavaScript fundamental syntax. The project is meant to be a game played between a User and a Computer and based on their selections, they get three outcomes `a win, a draw and a lost`. The game is a Five Round game that determines the winner, loser.
+## Challenges Faced
+
+- Getting a validated user choice
+- Returning the results and checking who won the game
+
