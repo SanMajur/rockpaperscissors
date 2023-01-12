@@ -5,3 +5,13 @@
  }
 console.log(getComputerChoice())
 
+const playRound = (playerSelection, computerSelection) => {
+    if (playerSelection.toLowerCase === 'rock'.toLowerCase && computerSelection === 'paper') {
+        return 'You Lose! paper beats Rock'
+    }
+}
+
+const playerSelection = 'rock';
+const computerSelection = getComputerChoice();
+
+console.log(playRound(playerSelection, computerSelection))
